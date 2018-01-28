@@ -45,3 +45,4 @@ This is analaysis of survival of People from Titanic dataset on kaggle.For more 
   ## Ensemble modelling
      Choosed a voting classifier to combine the predictions coming from the 5 classifiers.
           
+For complete analayis and visualisations of data please read the ipython notebook.
